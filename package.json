@@ -1,0 +1,6 @@
+{
+  "scripts": {
+    "start": "node --harmony server.js",
+    "watch": "npx nodemon --harmony server.js"
+  }
+}
